@@ -31,6 +31,7 @@
 - [ ] Add `bone` param to `OnPlayerDamage` event
 - [ ] Add `OnWeaponChange` event
 - [ ] Add `OnEntityStreamedId`/`OnEntityStreamedOut`
+- [ ] Add `OnEntitySyncedMetaDataChanged` event
 - [ ] Add `PlayerEnteredVehicle`/`PlayerLeftVehicle`
 
 # Features
