@@ -17,6 +17,7 @@
 - [ ] player.getAllWeaponTints()
 - [ ] player.resetAllWeaponTints()
 - [ ] player.toggleFreeze(state: boolean)
+- [ ] player.setComponentVariation (componentId, drawableId, textureId, paletteId)
 
 # Properties
 - [ ] player.ip
