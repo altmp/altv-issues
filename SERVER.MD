@@ -17,6 +17,7 @@
 - [ ] player.getAllWeaponTints()
 - [ ] player.resetAllWeaponTints()
 - [ ] player.toggleFreeze(state: boolean)
+- [ ] vehicle.toggleFreeze(state: boolean)
 
 # Properties
 - [ ] player.ip
