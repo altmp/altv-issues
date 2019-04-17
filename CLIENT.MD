@@ -14,7 +14,6 @@
 - [ ] player.getDecorationsState
 
 # Properties
-- [ ] player.ip
 - [ ] player.discordInfo
 - [ ] player.licenseHash
 - [ ] player.currentWeapon
