@@ -16,6 +16,7 @@
 - [ ] player.getWeaponTint(weaponHash)
 - [ ] player.getAllWeaponTints()
 - [ ] player.resetAllWeaponTints()
+- [ ] player.setDecoration(collection, overlay)
 - [ ] player.toggleFreeze(state: boolean)
 - [ ] player.setComponentVariation (componentId, drawableId, textureId, paletteId)
 
