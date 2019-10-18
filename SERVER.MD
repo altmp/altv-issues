@@ -22,10 +22,10 @@
 - [ ] vehicle.toggleFreeze(state: boolean)
 
 # Properties
-- [ ] player.ip
+- [x] player.ip
 - [ ] player.discordInfo
-- [ ] player.licenseHash
-- [ ] player.currentWeapon
+- [x] player.licenseHash
+- [x] player.currentWeapon
 - [ ] player.eyeColor
 - [ ] player.faceFeatures
 - [ ] player.hairColor
