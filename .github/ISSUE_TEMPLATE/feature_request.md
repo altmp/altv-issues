@@ -2,14 +2,14 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: enhancement
+labels: 'Type: enhancement'
 assignees: ''
 
 ---
 
 <!--- Provide a general summary of the enhancement in the Title above -->
 
-<!--- Try to meticulously explain your enhancement or new feature -->
+<!--- Try to meticulously explain your enhancement purposefulness -->
 <!--- it will be very helpful for reviewers and developers -->
 
 **Is your feature request related to a problem? Please describe.**
