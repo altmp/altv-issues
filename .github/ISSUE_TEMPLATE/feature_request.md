@@ -7,19 +7,27 @@ assignees: ''
 
 ---
 
-<!--- Provide a general summary of the enhancement in the Title above -->
+<!-- &#x1F6A8; STOP &#x1F6A8; STOP &#x1F6A8; STOP &#x1F6A8;
 
-<!--- Try to meticulously explain your enhancement purposefulness -->
-<!--- it will be very helpful for reviewers and developers -->
+Before you post an issue, make sure you've read quick introduction to our bug tracker:
+  * https://github.com/altmp/altv-issues/blob/master/README.MD
 
-**Is your feature request related to a problem? Please describe.**
-<!-- A clear and concise description of what the problem is. Ex. I'm always frustrated when [...] -->
+Please fill in the *entire* template below.
+-->
+
+**Suggestion**
+<!-- A summary of what you'd like to see added or changed -->
+
+**Use cases**
+<!--
+What do you want to use this for?
+-->
 
 **Describe the solution you'd like**
 <!-- A clear and concise description of what you want to happen. -->
 
 **Describe alternatives you've considered**
-<!-- A clear and concise description of any alternative solutions or features you've considered. -->
+<!-- A clear and concise description of any alternative solutions or features you've considered -->
 
 **Additional context**
-<!-- Add any other context or screenshots about the feature request here. -->
+<!-- Add any other context or screenshots about the feature request here -->

@@ -1,0 +1,15 @@
+--- 
+blank_issues_enabled: false
+contact_links: 
+  - 
+    about: "Please ask and answer usage questions on Stack Overflow."
+    name: Question
+    url: "https://stackoverflow.com/questions/tagged/altv"
+  - 
+    about: "Alternatively, you can use the alt:V Community Discord."
+    name: Chat
+    url: "https://discord.gg/q3zUUEC"
+  - 
+    about: "Please check the Troubleshooting before filing new issues."
+    name: "alt:V Troubleshooting"
+    url: "https://wiki.altv.mp/Troubleshooting"
