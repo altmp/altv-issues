@@ -7,17 +7,16 @@ assignees: ''
 
 ---
 
-<!--- Provide a general summary of the issue in the Title above -->
+<!-- 🚨 STOP 🚨 STOP 🚨 STOP 🚨
 
-<!--- Try to meticulously explain issue that you experience -->
-<!--- it will be very helpful for reviewers and developers -->
+Before you post an issue, make sure you've read quick introduction to our bug tracker:
+  * https://github.com/altmp/altv-issues/blob/master/README.MD
 
-<!--- No concrete information or failure to comply with template, can lead to issue being solved longer or to its closure. -->
+Please fill in the *entire* template below. -->
 
 **Client/server version**
-<!-- Replace 'x' with proper data; e.g. #1271, branch release -->
+<!-- Replace 'x' with proper data; e.g. “#1271, branch release” -->
 `Build #xxxx, branch x`
-
 
 **Current behavior**
 <!--- Tell us what happens currently -->
@@ -26,12 +25,12 @@ assignees: ''
 <!--- Tell us what should happen -->
 
 **Steps to reproduce**
-<!--- Provide a link to a live example or an unambiguous set of steps to -->
-<!--- reproduce this bug. Include code to reproduce, if relevant -->
+<!--- Provide a link to a live example or an unambiguous set of steps to
+      reproduce this bug. Include code to reproduce, if relevant -->
 
 **Context (environment)**
-<!--- How has this issue affected you? What are you trying to accomplish? -->
-<!--- Providing context helps us come up with a solution that is most useful in the real world -->
+<!--- How has this issue affected you? What are you trying to accomplish?
+      Providing context helps us come up with a solution that is most useful in the real world -->
 
 **Possible solution**
 <!--- Not obligatory, but suggest a fix/reason for the bug -->

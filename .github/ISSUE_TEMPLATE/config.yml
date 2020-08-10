@@ -3,11 +3,11 @@ blank_issues_enabled: false
 contact_links: 
   - 
     about: "Please ask and answer usage questions on Stack Overflow."
-    name: Question
+    name: "Question"
     url: "https://stackoverflow.com/questions/tagged/altv"
   - 
-    about: "Alternatively, you can use the alt:V Community Discord."
-    name: Chat
+    about: "Alternatively, you can use the alt:V Official Discord."
+    name: "Support channel"
     url: "https://discord.gg/q3zUUEC"
   - 
     about: "Please check the Troubleshooting before filing new issues."
