@@ -12,14 +12,14 @@ alt:V Multiplayer uses GitHub Issues as a bug tracker. This repository is here f
 
 1. Review the issues in the [Issue Tracker &nearr;](https://github.com/altmp/altv-issues/issues?q=is%3Aopen+is%3Aissue+label%3A%22Class%3A+bug%22). Maybe someone has already reported it and it will be fixed soon.
 1. The problem might have also been fixed. In this case, you will find the issue in [the closed issues list &nearr;](https://github.com/altmp/altv-issues/issues?q=is%3Aissue+label%3A%22Class%3A+bug%22+is%3Aclosed).
-1. If you cannot find your issue, [follow the reproduction steps guide below](#user-content-i-want-to-report-a-bug-feature). We will look into it.
+1. If you cannot find your issue, [follow the reproduction steps guide below](#I-want-to-report-a-bug-feature). We will look into it.
 
 ## I have an idea on a new feature
 
 We're happy to take any feature into the consideration. If you're sure that such feature wasn't implemented yet, follow the steps below:
 
 1. Review the issues in the [Issue Tracker &nearr;](https://github.com/altmp/altv-issues/issues?q=is%3Aopen+is%3Aissue+label%3A%22Class%3A+enhancement%22). Maybe someone has already reported it and it will be implemented soon.
-1. If you cannot find your issue, [follow the reproduction steps guide below &nearr;](#user-content-i-want-to-report-a-bug-feature). We will look into it.
+1. If you cannot find your issue, [follow the reproduction steps guide below &nearr;](#I-want-to-report-a-bug-feature). We will look into it.
 
 ## I want to report a bug/feature
 
