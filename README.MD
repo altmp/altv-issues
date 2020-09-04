@@ -6,7 +6,7 @@ alt:V Multiplayer uses GitHub Issues as a issue tracker. This repository is here
 
 1. Check out the [**Troubleshooting** &nearr;](https://wiki.altv.mp/Troubleshooting) page.
 1. Browse the [altv &nearr;](https://stackoverflow.com/questions/tagged/altv) questions on Stack Overflow. If you haven't found there what you are looking for, post a question for the Stack Overflow community to follow or answer.
-1. Use our official support channel and [post your problem &nearr;](https://discord.com/channels/371265202378899476/557307592129511444).
+1. Use our official support channel and [post your problem &nearr;](https://discord.altv.mp/).
 
 ## I think I found a bug
 
