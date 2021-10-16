@@ -41,12 +41,11 @@ body:
       placeholder: E.g. Ubuntu 20.04
     validations:
       required: true
-  - type: input
+  - type: dropdown
     id: branch
     attributes:
       label: Branch
       description: On what branch is the issue present
-      multiple: true
       options:
         - release
         - rc
