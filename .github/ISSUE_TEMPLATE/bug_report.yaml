@@ -1,0 +1,63 @@
+name: Bug report
+description: Report a bug in the module
+labels: ['type: bug']
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the problem
+      description: Describe the exact problem.
+      placeholder: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction steps
+      description: Describe how to reproduce the problem
+      placeholder: A clear and concise list of steps on how to reproduce the problem or code to reproduce the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behaviour
+      description: Describe the expected behaviour
+      placeholder: A clear and concise description of what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Any other additional context you'd like to add
+      placeholder: Add any other context or screenshots about the problem here.
+  - type: input
+    id: os
+    attributes:
+      label: Operating system
+      description: On what operating system is the issue present
+      placeholder: E.g. Ubuntu 20.04
+    validations:
+      required: true
+  - type: input
+    id: branch
+    attributes:
+      label: Branch
+      description: On what branch is the issue present
+      multiple: true
+      options:
+        - release
+        - rc
+        - dev
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: On what version is the issue present
+      placeholder: 'E.g. #1271'
+    validations:
+      required: true
