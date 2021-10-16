@@ -31,7 +31,7 @@ body:
     id: context
     attributes:
       label: Additional context
-      description: Any other additional context you'd like to add
+      description: 'Any other additional context you''d like to add'
       placeholder: Add any other context or screenshots about the problem here.
   - type: input
     id: os
@@ -41,22 +41,11 @@ body:
       placeholder: E.g. Ubuntu 20.04
     validations:
       required: true
-  - type: dropdown
-    id: branch
-    attributes:
-      label: Branch
-      description: On what branch is the issue present
-      options:
-        - release
-        - rc
-        - dev
-    validations:
-      required: true
   - type: input
     id: version
     attributes:
       label: Version
       description: On what version is the issue present
-      placeholder: 'E.g. #1271'
+      placeholder: e.g. dev/7.0-dev3
     validations:
       required: true
