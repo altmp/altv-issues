@@ -1,0 +1,39 @@
+name: Feature request
+description: Suggest an idea for this project
+labels: ['type: enhancement']
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the problem
+      description: Is your feature request related to a problem? Please describe
+      placeholder: A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Desired solution for the problem
+      description: Describe the solution you'd like
+      placeholder: A clear and concise description of what you want to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you considered
+      description: Describe alternatives you've considered
+      placeholder: A clear and concise description of any alternative solutions or features you've considered.
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Any other additional context you'd like to add
+      placeholder: Add any other context or screenshots about the feature request here.
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: On what version is the issue present
+      placeholder: e.g. dev/7.0-dev3
