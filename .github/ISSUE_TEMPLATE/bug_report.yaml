@@ -1,6 +1,6 @@
 name: Bug report
 description: Report a bug in the module
-labels: ['type: bug']
+labels: ['Class: bug']
 
 body:
   - type: textarea
