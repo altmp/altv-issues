@@ -1,5 +1,5 @@
 name: Bug report
-description: Report a bug in alt:V multiplayer
+description: Report a bug in alt:V Multiplayer
 labels: ['Class: bug']
 
 body:
