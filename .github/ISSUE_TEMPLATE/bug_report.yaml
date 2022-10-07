@@ -49,3 +49,10 @@ body:
       placeholder: e.g. dev/7.0-dev3
     validations:
       required: true
+  - type: checkboxes
+    attributes:
+      label: Reproduction tested
+      description: Make sure you can confirm this issue also exists on the newest dev version
+      options:
+      - label: I confirm that I have made sure that this issue is also present on the newest dev version
+        required: true
