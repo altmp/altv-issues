@@ -53,7 +53,7 @@ body:
     id: crashdumpid
     attributes:
       label: Crashdump ID
-      description: The crashdump id you received on a client crash
+      description: The crashdump id you received on a crash
   - type: checkboxes
     attributes:
       label: Reproduction tested
