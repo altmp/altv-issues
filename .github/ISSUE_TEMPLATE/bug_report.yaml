@@ -49,6 +49,11 @@ body:
       placeholder: e.g. dev/7.0-dev3
     validations:
       required: true
+  - type: input
+    id: crashdumpid
+    attributes:
+      label: Crashdump ID
+      description: The crashdump id you received on a client crash
   - type: checkboxes
     attributes:
       label: Reproduction tested
