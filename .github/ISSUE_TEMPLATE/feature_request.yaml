@@ -31,9 +31,3 @@ body:
       label: Additional context
       description: Any other additional context you'd like to add
       placeholder: Add any other context or screenshots about the feature request here.
-  - type: input
-    id: version
-    attributes:
-      label: Version
-      description: On what version is the issue present
-      placeholder: e.g. dev/7.0-dev3
