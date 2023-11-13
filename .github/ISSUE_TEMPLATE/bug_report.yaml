@@ -56,5 +56,11 @@ body:
       description: The crashdump id you received on a crash
   - type: markdown
     attributes:
-      value: "## By submitting this ticket, I affirm that I have verified the presence of this issue on the latest developer version available at the time of writing this ticket."
+      value: "## "
+  - type: checkboxes
+    attributes:
+      label: "Confirmation of issue's presence"
+      options:
+      - label: "*By submitting this ticket, I affirm that I have verified the presence of this issue on the latest developer version available at the time of writing this ticket.*"
+        required: true
 
