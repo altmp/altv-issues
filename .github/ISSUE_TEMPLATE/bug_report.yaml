@@ -54,10 +54,7 @@ body:
     attributes:
       label: Crashdump ID
       description: The crashdump id you received on a crash
-  - type: checkboxes
+  - type: markdown
     attributes:
-      label: Reproduction tested
-      description: Make sure you can confirm this issue also exists on the newest dev version
-      options:
-      - label: I confirm that I have made sure that this issue is also present on the newest dev version
-        required: true
+      value: "## By submitting this ticket, I affirm that I have verified the presence of this issue on the latest developer version available at the time of writing this ticket."
+
