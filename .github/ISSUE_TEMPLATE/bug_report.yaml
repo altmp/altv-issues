@@ -46,7 +46,7 @@ body:
     attributes:
       label: Version
       description: On what version is the issue present
-      placeholder: e.g. dev/7.0-dev3
+      placeholder: e.g. 16.2.6-rc.1
     validations:
       required: true
   - type: input
@@ -61,6 +61,5 @@ body:
     attributes:
       label: "Confirmation of issue's presence"
       options:
-      - label: "*By submitting this ticket, I affirm that I have verified the presence of this issue on the latest developer version available at the time of writing this ticket.*"
+      - label: "*By submitting this ticket, I affirm that I have verified the presence of this issue on the latest RC (Release Candidate) version available at the time of writing this ticket.*"
         required: true
-
